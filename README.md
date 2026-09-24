@@ -44,7 +44,6 @@ This dashboard brings all of that into a single 3-page Power BI report covering:
 - **Power BI Desktop** — data modeling, report building
 - **Power Query (M)** — data cleaning and transformation
 - **DAX** — KPI measures and calculations
-- **SQL** *(used in a related project — see [E-Commerce SQL Project](../))*
 
 ---
 
