@@ -12,6 +12,8 @@ A 3-page interactive Power BI report analyzing **procurement, supplier, and logi
 ```
 supply-chain-analytics-powerbi/
 ├── README.md
+├── Data/
+│   └── Supply_Chain_Procurement.xlsx
 ├── powerbi-file/
 │   └── supply-chain-report.pbix
 ├── screenshots/
